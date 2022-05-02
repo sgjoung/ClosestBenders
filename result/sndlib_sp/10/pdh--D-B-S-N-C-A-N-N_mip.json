@@ -1,0 +1,21 @@
+{
+	"probname": "pdh--D-B-S-N-C-A-N-N",
+	"results": [
+		{
+			"subtime": 0,
+			"totaltime": "254.6250",
+			"nnodes": 23982,
+			"x0time": 0,
+			"iteration": 0,
+			"objval": "17845530.0000",
+			"feascutnum": 0,
+			"optcutnum": 0
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "mip",
+			"benderstype": "mip"
+		}
+	]
+}

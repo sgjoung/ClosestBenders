@@ -1,0 +1,21 @@
+{
+	"probname": "atlanta--U-U-M-N-C-A-N-N",
+	"results": [
+		{
+			"subtime": 0,
+			"totaltime": "647.7810",
+			"nnodes": 4398,
+			"x0time": 0,
+			"iteration": 0,
+			"objval": "90282133.6571",
+			"feascutnum": 0,
+			"optcutnum": 0
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "mip",
+			"benderstype": "mip"
+		}
+	]
+}

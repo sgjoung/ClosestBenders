@@ -1,0 +1,21 @@
+{
+	"probname": "nobel-us--U-U-E-N-C-A-N-N",
+	"results": [
+		{
+			"subtime": "35.4750",
+			"totaltime": "789.7330",
+			"nnodes": 1816514,
+			"x0time": "0.0570",
+			"iteration": 348,
+			"objval": "2506240.0000",
+			"feascutnum": 294,
+			"optcutnum": 0
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "magnanti",
+			"benderstype": "bnc"
+		}
+	]
+}

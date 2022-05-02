@@ -1,0 +1,21 @@
+{
+	"probname": "15_50_5_2_0.1_3",
+	"results": [
+		{
+			"subtime": "0.0810",
+			"totaltime": "1.0330",
+			"nnodes": 0,
+			"x0time": "0.0000",
+			"iteration": 57,
+			"objval": "2746601.0000",
+			"feascutnum": 14,
+			"optcutnum": 42
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "fischetti",
+			"benderstype": "tb"
+		}
+	]
+}

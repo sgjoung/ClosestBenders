@@ -1,0 +1,21 @@
+{
+	"probname": "10_60_10_2_0.01_2",
+	"results": [
+		{
+			"subtime": "61.2520",
+			"totaltime": "7257.3460",
+			"nnodes": 511866,
+			"x0time": "0.0100",
+			"iteration": 5815,
+			"objval": "2028067.0000",
+			"feascutnum": 341,
+			"optcutnum": 5463
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "yang",
+			"benderstype": "bnc"
+		}
+	]
+}

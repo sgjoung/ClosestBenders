@@ -1,0 +1,22 @@
+{
+	"probname": "di-yuan--D-B-E-N-C-A-N-N",
+	"results": [
+		{
+			"subtime": "4.7640",
+			"totaltime": "182.7430",
+			"nnodes": 0,
+			"lpnum": 345,
+			"x0time": "0.0240",
+			"iteration": 104,
+			"objval": "553700.0000",
+			"feascutnum": 103,
+			"optcutnum": 0
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "yang",
+			"benderstype": "tb"
+		}
+	]
+}

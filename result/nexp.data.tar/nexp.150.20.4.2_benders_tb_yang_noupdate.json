@@ -1,0 +1,22 @@
+{
+	"probname": "nexp.150.20.4.2",
+	"results": [
+		{
+			"subtime": "119.7860",
+			"totaltime": "216.4080",
+			"nnodes": 0,
+			"lpnum": 651,
+			"x0time": "0.0390",
+			"iteration": 285,
+			"objval": "159.0000",
+			"feascutnum": 284,
+			"optcutnum": 0
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "yang",
+			"benderstype": "tb"
+		}
+	]
+}

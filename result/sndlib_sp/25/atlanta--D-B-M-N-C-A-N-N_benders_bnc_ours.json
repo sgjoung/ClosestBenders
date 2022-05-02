@@ -1,0 +1,22 @@
+{
+	"probname": "atlanta--D-B-M-N-C-A-N-N",
+	"results": [
+		{
+			"subtime": "6692.1280",
+			"totaltime": "6806.7940",
+			"nnodes": 3619,
+			"x0time": "8.0700",
+			"gap": "0.0000",
+			"iteration": 135,
+			"objval": "40031616.0000",
+			"feascutnum": 61,
+			"optcutnum": 64
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "closest",
+			"benderstype": "bnc"
+		}
+	]
+}

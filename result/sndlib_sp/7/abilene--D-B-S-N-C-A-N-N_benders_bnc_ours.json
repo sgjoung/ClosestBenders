@@ -1,0 +1,22 @@
+{
+	"probname": "abilene--D-B-S-N-C-A-N-N",
+	"results": [
+		{
+			"subtime": "4.8280",
+			"totaltime": "7.5980",
+			"nnodes": 406,
+			"x0time": "0.4750",
+			"gap": "0.0000",
+			"iteration": 41,
+			"objval": "128313.0000",
+			"feascutnum": 37,
+			"optcutnum": 0
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "closest",
+			"benderstype": "bnc"
+		}
+	]
+}

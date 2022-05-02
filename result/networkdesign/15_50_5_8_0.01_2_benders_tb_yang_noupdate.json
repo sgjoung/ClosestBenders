@@ -1,0 +1,22 @@
+{
+	"probname": "15_50_5_8_0.01_2",
+	"results": [
+		{
+			"subtime": "0.2620",
+			"totaltime": "2.4630",
+			"nnodes": 0,
+			"lpnum": 192,
+			"x0time": "0.0010",
+			"iteration": 72,
+			"objval": "1832589.5000",
+			"feascutnum": 57,
+			"optcutnum": 14
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "yang",
+			"benderstype": "tb"
+		}
+	]
+}

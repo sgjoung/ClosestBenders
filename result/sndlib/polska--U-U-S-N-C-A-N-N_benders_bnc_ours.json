@@ -1,0 +1,21 @@
+{
+	"probname": "polska--U-U-S-N-C-A-N-N",
+	"results": [
+		{
+			"subtime": "1.3230",
+			"totaltime": "9.9090",
+			"nnodes": 154336,
+			"x0time": "0.0230",
+			"iteration": 75,
+			"objval": "30923.0000",
+			"feascutnum": 61,
+			"optcutnum": 0
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "closest",
+			"benderstype": "bnc"
+		}
+	]
+}

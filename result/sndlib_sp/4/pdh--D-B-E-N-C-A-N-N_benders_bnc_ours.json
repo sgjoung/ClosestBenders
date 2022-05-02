@@ -1,0 +1,22 @@
+{
+	"probname": "pdh--D-B-E-N-C-A-N-N",
+	"results": [
+		{
+			"subtime": "59.8290",
+			"totaltime": "83.9020",
+			"nnodes": 121514,
+			"x0time": "0.1410",
+			"gap": "0.0000",
+			"iteration": 246,
+			"objval": "9888074.0000",
+			"feascutnum": 227,
+			"optcutnum": 0
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "closest",
+			"benderstype": "bnc"
+		}
+	]
+}

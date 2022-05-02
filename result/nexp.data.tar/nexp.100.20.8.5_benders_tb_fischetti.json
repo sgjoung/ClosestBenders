@@ -1,0 +1,21 @@
+{
+	"probname": "nexp.100.20.8.5",
+	"results": [
+		{
+			"subtime": "0.5340",
+			"totaltime": "45.8990",
+			"nnodes": 0,
+			"x0time": "0.0000",
+			"iteration": 234,
+			"objval": "172.0000",
+			"feascutnum": 233,
+			"optcutnum": 0
+		}
+	],
+	"algorithm": [
+		{
+			"cuttype": "fischetti",
+			"benderstype": "tb"
+		}
+	]
+}
