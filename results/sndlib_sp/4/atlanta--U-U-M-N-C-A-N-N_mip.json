@@ -6,7 +6,7 @@
 			"totaltime": "123.8100",
 			"nnodes": 3065,
 			"x0time": 0,
-			"gap": "0.0001",
+			"gap": "0.0000",
 			"iteration": 0,
 			"objval": "90136052.9750",
 			"feascutnum": 0,

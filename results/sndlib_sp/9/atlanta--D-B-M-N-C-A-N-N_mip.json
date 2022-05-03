@@ -9,7 +9,8 @@
 			"iteration": 0,
 			"objval": "39464390.8000",
 			"feascutnum": 0,
-			"optcutnum": 0
+			"optcutnum": 0,
+			"gap": "0.0000"
 		}
 	],
 	"algorithm": [

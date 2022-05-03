@@ -16,7 +16,8 @@
 	"algorithm": [
 		{
 			"cuttype": "mip",
-			"benderstype": "mip"
+			"benderstype": "mip",
+			"gap": 0.0
 		}
 	]
 }

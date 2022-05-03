@@ -16,7 +16,8 @@
 	"algorithm": [
 		{
 			"cuttype": "closest",
-			"benderstype": "bnc"
+			"benderstype": "bnc",
+			"gap": 0.0
 		}
 	]
 }
