@@ -30,13 +30,13 @@
   + SNDlib instances(http://sndlib.zib.de) with multiple scenarios generated for comparison between the proposed Benders decomposition algorithm and CPLEX. Random demands in the range [*0.7d<sub>k</sub>, 1.3d<sub>k</sub>*], where *d<sub>k</sub>* is the given demand for commodity *k*. All instances are given in `.mps` format.
   + Instances are contained in a folder in which the number of random scenarios is the name. For example, folder `sndlib_sp/10` contains instances with ten random scenarios.
 + #### /nexp.data.tar
-  + Network expansion problem instances (https://atamturk.ieor.berkeley.edu/data/additive.variable.upper.bounds/readme.txt)
+  + Network expansion problem instances (https://atamturk.ieor.berkeley.edu/data/additive.variable.upper.bounds/)
   + All instances are given in `.mps` format.
 
 #### 2. Results
 
 + #### All results are given in `.json` format.
-+ #### Instance name: `instance_method_benderstype_cuttype.json`
++ #### Instance name: `instancename_method_benderstype_cuttype.json`
   + method: benders, mip
   + benderstype: bnc, tb
   + cuttype: classical, magnanti, yang, fischetti, closest
