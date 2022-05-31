@@ -1,7 +1,7 @@
 ## Online supplement of: 
 
 
-## "A closest Benders cut selection scheme for accelerating the Benders decomposition algorithm" <br>(submitted to *INFORMS Journal on Computing*)
+## "A closest Benders cut selection scheme for accelerating the Benders decomposition algorithm" <br>(accepted in *INFORMS Journal on Computing*)
 
 
 #### by Kiho Seo<sup>1</sup>, Seulgi Joung<sup>2</sup>, Chungmok Lee<sup>3</sup>, and Sungsoo Park<sup>4</sup>
