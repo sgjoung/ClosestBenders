@@ -8,7 +8,7 @@
 
 #### <sup>1</sup> Department of Industrial and Systems Engineering, KAIST, Daejeon, Republic of Korea, emffp1410@kaist.ac.kr
 
-#### <sup>2</sup> Department of Industrial Engineering, Chonnam National University, Gwangju, Republic of Korea, sgjoung@jnu.ac.kr
+#### <sup>2</sup> Department of Industrial Engineering, Ajou University, Gwangju, Republic of Korea, sgjoung@ajou.ac.kr
 
 #### <sup>3</sup> Department of Industrial and Management Engineering, Hankuk University of Foreign Studies, Youngin-si, Republic of Korea, chungmok@hufs.ac.kr
 
